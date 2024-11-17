@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Benjamín Díaz
 
 ### 🎓 Sobre Mí
 Soy un estudiante universitario de Ingeniería Civil Industrial, actualmente tengo 19 años y me apasiona el mundo del desarrollo web y mobile. 
